@@ -1,2 +1,3 @@
 # AWESOME
-Official repository for the AWESOME Research Project (PRIN 2022).
+
+This is the official repository for the AWESOME Research Project (PRIN 2022).
